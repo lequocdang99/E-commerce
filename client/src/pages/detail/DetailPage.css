@@ -1,0 +1,86 @@
+.detailInfo {
+  margin: 3rem;
+  line-height: 3rem;
+}
+
+.detailInfo button {
+  display: inline;
+  float: right;
+}
+
+.detailInfo #name {
+  font-size: 3rem;
+}
+
+.detailInfo #address {
+  font-size: 1.5rem;
+}
+
+.detailInfo #address i {
+  margin-right: 1rem;
+}
+
+.detailInfo #distance {
+  font-weight: normal;
+  color: rgb(2, 113, 194);
+}
+
+.detailInfo #price {
+  font-weight: normal;
+  color: green;
+}
+
+.detailImg {
+  margin: 2rem;
+}
+
+.detailImg img {
+  display: inline-block;
+  width: 32.5%;
+  margin: 0.5rem;
+}
+
+.detailDescription {
+  display: inline-block;
+  margin: 0rem 3rem;
+  vertical-align: top;
+  width: 70%;
+}
+
+.detailDescription #title {
+  font-size: 3rem;
+  padding-bottom: 2rem;
+}
+
+.detailDescription #text {
+  font-size: 1.5rem;
+}
+
+.detailBook {
+  display: inline;
+  float: right;
+  margin: 0rem 3rem 3rem 0rem;
+  padding: 2rem;
+  width: 24%;
+  background-color: rgb(235, 243, 255);
+}
+
+.detailBook h1 {
+  color: rgb(91, 91, 91);
+  margin-bottom: 2rem;
+}
+
+.detailBook p {
+  display: block;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.detailBook #price9Night {
+  font-size: 3rem;
+  font-weight: lighter;
+}
+
+.detailBook button {
+  width: 100%;
+}
